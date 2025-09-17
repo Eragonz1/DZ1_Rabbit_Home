@@ -6,6 +6,7 @@ void main()
 {
 	setlocale(LC_ALL, "RUS");
 
+	puts("Кролик");
 	puts("(\\ (\\     ");
 	puts("");
 	puts("(  -.- )    ");
